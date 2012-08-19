@@ -2,3 +2,9 @@
 Some more tests
 
 1:26 PM Sunday, August 19, 2012
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=88ms TTL=45
+Reply from 8.8.8.8: bytes=32 time=499ms TTL=45
+Reply from 8.8.8.8: bytes=32 time=84ms TTL=45
+Reply from 8.8.8.8: bytes=32 time=83ms TTL=45
